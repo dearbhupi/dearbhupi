@@ -1,6 +1,6 @@
 <h1>Hii 👋 I'm Bhupinder Singh</h1>
 # 💫 About Me:
-I'm Currently Working on Android App Development<br>I'm Currently Learning React js and node js<br>
+I'm Currently Working on AI/ML development<br>I'm Currently Learning LangChain and LlamaIndex<br>
 
 
 ## 🌐 Socials:
