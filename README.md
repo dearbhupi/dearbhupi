@@ -1,4 +1,4 @@
-<h1>Hii 👋 I'm Bhupinder Singh</h1>
+<h1>Hi 👋 I'm Bhupinder Singh</h1>
 # 💫 About Me:
 I'm Currently Working on AI/ML development<br>I'm Currently Learning LangChain and LlamaIndex<br>
 
